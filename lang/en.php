@@ -98,10 +98,10 @@ $strs = array(
 		Expression: <code>\'X+1\'</code><br>
 		Expression: <code>\'Δ = B^2-4*A*C\'</code><br>
 		Derivative: <code>\'A(X) = ∂t(V(X))\'</code><br>
-		Integral: <code>\'∫(0, X, EXP(t), t)\'</code><br>
+		Integral: <code>\'∫(0; X; EXP(t); t)\'</code><br>
 		Vector: <code>[3 \'X*COS(θ)\']</code><br>
 		Matrix: <code>[[1 \'A\'][3 4]]</code><br>
-		List: <code>{\'X = 3\' (1.,-1.)}</code>',
+		List: <code>{\'X = 3\' (1.;-1.)}</code>',
 	'baixarBiblioteca' => 'Download library',
 	'download' => 'Download',
 	'janelaDownload' => '<div><p>Your file is ready. To open it in the calculator follow these steps:</p>

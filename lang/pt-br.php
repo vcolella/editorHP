@@ -101,10 +101,10 @@ $strs = array(
 		Expressão: <code>\'X+1\'</code><br>
 		Expressão: <code>\'Δ = B^2-4*A*C\'</code><br>
 		Derivada: <code>\'A(X) = ∂t(V(X))\'</code><br>
-		Integral: <code>\'∫(0, X, EXP(t), t)\'</code><br>
+		Integral: <code>\'∫(0; X; EXP(t); t)\'</code><br>
 		Vetor: <code>[3 \'X*COS(θ)\']</code><br>
 		Matriz: <code>[[1 \'A\'][3 4]]</code><br>
-		Lista: <code>{\'X = 3\' (1.,-1.)}</code>',
+		Lista: <code>{\'X = 3\' (1.;-1.)}</code>',
 	'baixarBiblioteca' => 'Baixar biblioteca',
 	'download' => 'Download',
 	'janelaDownload' => '<div><p>Seu arquivo está compilado. Para abri-lo na calculadora siga os passos:</p>

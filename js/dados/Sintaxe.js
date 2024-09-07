@@ -135,7 +135,7 @@ Sintaxe.inflarEquacao = function (str) {
 				throw _("erroSintaxe_fimParentesesInesperado")
 			niveis.pop()
 			niveis.pop()
-		} else if (c == ",") {
+		} else if (c == "," || c == ";") {
 			salvarCache()
 			novo = []
 			if (niveis.length < 3)
